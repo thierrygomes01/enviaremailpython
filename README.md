@@ -23,6 +23,7 @@ Antes de rodar o script, edite as seguintes variáveis no código:
 # Dados de conexão
 username = "seu_email@gmail.com"  # Substitua pelo seu e-mail
 senha = "sua_senha_de_app"  # Substitua pela senha de app gerada no Gmail
+```
 
 # Informações do e-mail
 dest = "destinatario@exemplo.com"  # Substitua pelo e-mail do destinatário
@@ -39,6 +40,7 @@ Salve o arquivo como enviar_email.py e execute no terminal:
 
 ```sh
 python enviar_email.py
+```
 
 
 🔍 Possíveis Erros e Soluções
